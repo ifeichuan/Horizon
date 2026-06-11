@@ -77,7 +77,7 @@
       "fetch_comments": 5
     },
     "twitter": {
-      "enabled": false,
+      "enabled": true,
       "users": ["karpathy", "ylecun"],
       "fetch_limit": 10,
       "fetch_reply_text": false,
